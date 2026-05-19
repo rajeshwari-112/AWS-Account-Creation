@@ -1,6 +1,6 @@
 # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
-## NAME : Hemalatha R
-## REG NO : 212224040114
+## NAME : RAJESHWARI M
+## REG NO : 212224040262
   ## AIM
        To Create an Account in AWS Set up a Root user and an IAM user.
 ## PROBLEM STATEMENT
